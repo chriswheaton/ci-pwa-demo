@@ -1,0 +1,7 @@
+{
+  "name": "ci-pwa-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
